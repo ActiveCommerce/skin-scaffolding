@@ -1,5 +1,5 @@
-css
-===
+styles
+======
 
 You'll find here a .less file corresponding to each in the Active Commerce base skin.
 Each contains a default "recipe" which pulls in base files plus your skin-specific mixins + variables (found under /common).
